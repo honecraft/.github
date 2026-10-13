@@ -18,7 +18,7 @@ A MILAE venceu o prémio Excellence in Data & AI 2026, na categoria Natural Lang
 
 A MILAE está em serviço. Cada chamada dá origem a um registo, e o painel municipal mostra à equipa de acção social quem precisa de atenção. Quem decide actuar é sempre o técnico municipal.
 
-![Painel municipal da MILAE. Imagem com dados de demonstração, sem qualquer informação de pessoas reais.](https://honecraft.pt/produto-painel.png)
+![Painel municipal da MILAE. Imagem com dados de demonstração, sem qualquer informação de pessoas reais.](painel.png)
 
 A MILAE liga, conversa, e sinaliza. O assistente social decide e actua. [Ver como funciona →](https://hellomilae.com/como-funciona)
 
